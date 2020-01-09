@@ -56,7 +56,7 @@ void display(int arr[],int n)
     }
 }
 
-int main()
+void main()
 {
     int n,i;
     cout << "Enter size of Queue: ";
@@ -89,5 +89,5 @@ int main()
             break;
         }
     }
-    return 0;
+    //My name is Himanshu.
 }
